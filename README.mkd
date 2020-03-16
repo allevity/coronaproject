@@ -1,0 +1,14 @@
+# Corona project to assist in the management of the epidemic
+
+The government needs information to make the right decisions.
+You need information to know what is happening in your country.
+This app provides both.
+Help yourself and help others by updating your data everyday.
+
+# TODO
+
+# Features to implement
+- Tracking cases
+- Tracking symptoms
+- Gathering physiological data
+- Running predictions on both
